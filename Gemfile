@@ -9,7 +9,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'devise'
 gem 'http'
 gem 'jbuilder', '~> 2.7'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'rails', '~> 6.0.0'
 gem 'sassc-rails'
 gem 'webpacker', '~> 4.0'
